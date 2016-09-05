@@ -1,1 +1,1 @@
-add_lunch_combo slim_ls980-userdebug
+add_lunch_combo omni_ls980-userdebug

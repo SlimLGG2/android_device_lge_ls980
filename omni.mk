@@ -9,7 +9,7 @@ $(call inherit-product, device/lge/ls980/ls980.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ls980
-PRODUCT_NAME := slim_ls980
+PRODUCT_NAME := omni_ls980
 PRODUCT_BRAND := LGE
 PRODUCT_MODEL := LG-LS980
 PRODUCT_MANUFACTURER := lge
